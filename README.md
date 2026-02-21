@@ -125,7 +125,7 @@ All ETL logic is documented inside the `Scripts/PhonePe_Extraction.ipynb` file.
 ![Consumer Insights](Assets/4-Consumer-Insights.png)
 
 ### 🧾 Category Analysis
-![Category Analysis](Assets/5-Product-vs-Market-Performance.png)
+![Category Analysis](Assets/5-Category-Analysis.png)
 
 ### 📈 Growth Engine
 ![Growth Engine](Assets/6.1-Growth-Engine.png)
