@@ -62,7 +62,7 @@ This project answers:
 
 ## 📊 Dashboard Structure
 
-### 🗺 Digital Command Center
+### 🗺 DigiIND Command Center
 - India state-level transaction map  
 - Total transaction amount  
 - Transaction count  
