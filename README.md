@@ -169,4 +169,4 @@ PhonePe-Pulse-360/
 ## 👤 Author
 
 Aryan Deshpande  
-> Aspiring Data Analytics
+> Aspiring Data Analyst
