@@ -2,7 +2,8 @@
   <img src="Assets/8.1-PhonePe-Pulse-360-Banner.png" width="100%" />
 </p>
 
-# 📱 PhonePe Pulse 360
+# 📱 PhonePe Pulse 360: Geospatial Financial Analytics
+
 ### Digital Payments Analytics & Forecasting Engine (Power BI)
 
 > State-wise, District-wise & Category-wise Digital Payments Intelligence  
@@ -10,7 +11,7 @@
 
 ## 📌 Project Overview
 
-**PhonePe Pulse 360** is an end-to-end fintech analytics solution built using the official PhonePe Pulse Open Data repository.
+**PhonePe Pulse 360: Geospatial Financial Analytics** is an end-to-end fintech analytics solution built using the official PhonePe Pulse Open Data repository.
 
 The dataset consisted of **5000+ deeply nested JSON files**, requiring a custom Python ETL pipeline before modeling in Power BI.
 
@@ -202,20 +203,24 @@ This dashboard supports:
 It demonstrates real-world **Digital Payments Intelligence & Growth Analytics capability**.
 
 ## 📁 Repository Structure
+- Assets contain Dashboard Visuals, Complete Walkthrough PDF and Repository Banner / Social Media Preview Image.
+- Datasets contain Dataset References (no raw data included).
+- Scripts contain all the ETL logic and DAX Documentation.
+- *PhonePe Pulse 360* is the Complete Interactive Power BI Dashboard.
 
-```
-PhonePe-Pulse-360/
+```text
+PhonePe-Pulse-360-Geospatial-Financial-Analytics/
 │
-├── Assets/        # Dashboard visuals, walkthrough PDF, banner, social preview
+├── Assets/        
 │
-├── Datasets/      # Dataset references (no raw data included)
+├── Datasets/      
 │   └── Data-Sources.md
 │
-├── Scripts/       # ETL + DAX documentation
+├── Scripts/      
 │   ├── PhonePe_Extraction.ipynb
 │   └── DAX-Measures.md
 │
-├── PhonePe-Pulse-360.pbix  # Complete Interactive Power BI Dashboard
+├── PhonePe Pulse 360.pbix
 │
 └── README.md
 ```
