@@ -205,20 +205,30 @@ It demonstrates real-world **Digital Payments Intelligence & Growth Analytics ca
 ## 📁 Repository Structure
 - Assets contain Dashboard Visuals, Complete Walkthrough PDF and Repository Banner / Social Media Preview Image.
 - Datasets contain Dataset References (no raw data included).
-- Scripts contain all the ETL logic and DAX Documentation.
+- Scripts contain the DAX Documentation and all the ETL logic.
 - *PhonePe Pulse 360.pbix* is the Complete Interactive Power BI Dashboard.
 
 ```text
 PhonePe-Pulse-360-Geospatial-Financial-Analytics/
 │
-├── Assets/        
+├── Assets/
+│   ├── 1-Home.png
+│   ├── 2-DigiIND-Command-Center.png
+│   ├── 3-Regional-Warfare.png
+│   ├── 4-Consumer-Insights.png
+│   ├── 5-Category-Analysis.png
+│   ├── 6.1-Growth-Engine.png
+│   ├── 6.2-Growth-Engine.png
+│   ├── 7-PhonePe-Pulse-360-Complete-Walkthrough.pdf
+│   ├── 8.1-PhonePe-Pulse-360-Banner.png
+│   └── 8.2-PhonePe-Pulse-360-Social-Preview.png
 │
 ├── Datasets/      
 │   └── Data-Sources.md
 │
 ├── Scripts/      
-│   ├── PhonePe_Extraction.ipynb
-│   └── DAX-Measures.md
+│   ├── DAX-Measures.md
+│   └── PhonePe_Extraction.ipynb
 │
 ├── PhonePe Pulse 360.pbix
 │
